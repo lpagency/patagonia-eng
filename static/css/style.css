@@ -179,6 +179,7 @@
 /*========PADDING CLASSES========*/
 .pad0{
     padding: 0px !important;
+    margin-bottom: 64px;
 }
 .pad10{
     padding: 10px !important;
