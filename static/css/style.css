@@ -176,6 +176,11 @@
 .height478{
     height: 478px;
 }
+
+.btn-block{
+    border: solid 1px #ccc;
+    color: #777;
+}
 /*========PADDING CLASSES========*/
 .pad0{
     padding: 0px !important;
