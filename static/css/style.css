@@ -184,6 +184,8 @@
 /*========PADDING CLASSES========*/
 .pad0{
     padding: 0px !important;
+}
+.news-pad{
     margin-bottom: 64px;
 }
 .pad10{
