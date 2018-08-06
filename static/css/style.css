@@ -821,6 +821,28 @@
 }
 
 /*VIDEOS*/
+.div-grande{
+    height: 434px;
+    position: relative;
+    width: 100%;
+}
+.img-style
+{
+    top: 20px; 
+    z-index: 2000!important;
+}
+.z-index
+{
+    z-index: 2000!important;
+}
+.alto-div
+{
+    height: 135px;
+}
+.caja-video
+{
+    position: relative;
+}
 .h-videos1{
     height: 550px;
 }
